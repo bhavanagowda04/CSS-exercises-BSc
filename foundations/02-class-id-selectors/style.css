@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class and ID Selectors</title>
+    <link rel="stylesheet" href="style.css">
+	<style>
+  .p {
+  background-color: pink;
+  font-family: verdana;
+  font-size: 18px%;
+}
+ .div {
+  color: blue;
+  font-family: verdana;
+  font-size: 36px;
+ }
+ .p2 {
+  background-color: pink;
+  font-family: Dejavu-Sans;
+  font-size: 24px;
+ }
+ .div2 {
+  background-color: lightgreen;
+  color: black;
+  font-family: verdana;
+  font-size: 24px;
+ }
+ .p3 {
+  background-color: pink;
+  font-family: verdana;
+  font-size: 18px;
+ }
+  
+
+</style>
+  </head>
+  <body>
+    <p class="p">Number 1 - I'm a class!</p>
+    <div class="div">Number 2 - I'm one ID.</div>
+    <p class="p p2">Number 3 - I'm a class, but cooler!</p>
+    <div class="div div2"><b>Number 4 - I'm another ID.</b></div>
+    <p class="p p3">Number 5 - I'm a class!</p>
+  </body>
+</html>
