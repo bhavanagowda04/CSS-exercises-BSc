@@ -1,5 +1,4 @@
-<style>
-	div {
+div {
   background-color: red;
   color: white;
   font-size: 32px;
@@ -11,6 +10,5 @@ p {
    }
 button {
      background-color:yellow;
-	 font-size: 18px;
-	 }
-</style>
+     font-size: 18px;
+	}
