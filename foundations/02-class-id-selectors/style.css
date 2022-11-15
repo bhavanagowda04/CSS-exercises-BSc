@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Class and ID Selectors</title>
-    <link rel="stylesheet" href="style.css">
-	<style>
+
   .p {
   background-color: pink;
   font-family: verdana;
@@ -35,13 +27,3 @@
  }
   
 
-</style>
-  </head>
-  <body>
-    <p class="p">Number 1 - I'm a class!</p>
-    <div class="div">Number 2 - I'm one ID.</div>
-    <p class="p p2">Number 3 - I'm a class, but cooler!</p>
-    <div class="div div2"><b>Number 4 - I'm another ID.</b></div>
-    <p class="p p3">Number 5 - I'm a class!</p>
-  </body>
-</html>
